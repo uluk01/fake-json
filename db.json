@@ -15,6 +15,23 @@
             "name": "Gold",
             "data": [444]
         }
-    ]
+    ],
+    "chart2": [
+          {
+              "id": 1,
+              "name": "Bronze",
+              "data": [4444]
+          },
+          {
+              "id": 2,
+              "name": "Silver",
+              "data": [3566]
+          },
+          {
+              "id": 3,
+              "name": "Gold",
+              "data": [1234]
+          }
+      ]
 }
 
