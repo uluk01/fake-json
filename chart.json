@@ -1,0 +1,17 @@
+[
+        {
+            "id": 1,
+            "name": "Bronze",
+            "data": [2390]
+        },
+        {
+            "id": 2,
+            "name": "Silver",
+            "data": [1446]
+        },
+        {
+            "id": 3,
+            "name": "Gold",
+            "data": [775]
+        }
+    ]
