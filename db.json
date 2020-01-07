@@ -1,5 +1,5 @@
 {
-  "chart": [
+  "chart7": [
         {
             "id": 1,
             "name": "Bronze",
@@ -16,7 +16,7 @@
             "data": [444]
         }
     ],
-    "chart2": [
+    "chart30": [
           {
               "id": 1,
               "name": "Bronze",
@@ -31,6 +31,23 @@
               "id": 3,
               "name": "Gold",
               "data": [1234]
+          }
+      ],
+    "chart90": [
+          {
+              "id": 1,
+              "name": "Bronze",
+              "data": [3678]
+          },
+          {
+              "id": 2,
+              "name": "Silver",
+              "data": [1222]
+          },
+          {
+              "id": 3,
+              "name": "Gold",
+              "data": [222]
           }
       ]
 }
