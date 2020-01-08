@@ -3,16 +3,19 @@
         {
             "id": 1,
             "name": "Bronze",
+            "members": 233,
             "data": [3333]
         },
         {
             "id": 2,
             "name": "Silver",
+            "members": 500,
             "data": [1111]
         },
         {
             "id": 3,
             "name": "Gold",
+            "members": 50,
             "data": [444]
         }
     ],
@@ -20,16 +23,19 @@
           {
               "id": 1,
               "name": "Bronze",
+              "members": 555,
               "data": [4444]
           },
           {
               "id": 2,
               "name": "Silver",
+              "members": 60,
               "data": [3566]
           },
           {
               "id": 3,
               "name": "Gold",
+              "members": 20,
               "data": [1234]
           }
       ],
@@ -37,16 +43,19 @@
           {
               "id": 1,
               "name": "Bronze",
+              "members": 600,
               "data": [3678]
           },
           {
               "id": 2,
               "name": "Silver",
+              "members": 100,
               "data": [1222]
           },
           {
               "id": 3,
               "name": "Gold",
+              "members": 240,
               "data": [222]
           }
       ],
