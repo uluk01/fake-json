@@ -49,6 +49,84 @@
               "name": "Gold",
               "data": [222]
           }
-      ]
+      ],
+    "activity":  [
+        {
+            "id": 1,
+            "name":"Webrand Clothing",
+            "tier_title":"Bronze",
+            "points_balance": 500,
+            "amount_spent": 130,
+            "date": "Jan 08, 2020"
+        },
+        {
+            "id": 2,
+            "name":"Ana Calhoun",
+            "tier_title":"Gold",
+            "points_balance": 100,
+            "amount_spent": 680,
+            "date": "Jan 03, 2020"
+        },{
+            "id": 3,
+            "name":"Max Max",
+            "tier_title":"Bronze",
+            "points_balance": 500,
+            "amount_spent": 130,
+            "date": "Jan 08, 2020"
+        },
+        {
+            "id": 4,
+            "name":"Yang Fang",
+            "tier_title":"Silver",
+            "points_balance": 1200,
+            "amount_spent": 80,
+            "date": "Jan 03, 2020"
+        },{
+            "id": 5,
+            "name":"Sylvie Bréat",
+            "tier_title":"Bronze",
+            "points_balance": 500,
+            "amount_spent": 130,
+            "date": "Dec 23, 2019"
+        },
+        {
+            "id": 6,
+            "name":"Attila Vermes",
+            "tier_title":"Silver",
+            "points_balance": 110,
+            "amount_spent": 180,
+            "date": "Dec 23, 2019"
+        },{
+            "id": 7,
+            "name":"Marine Brocvielle",
+            "tier_title":"Bronze",
+            "points_balance": 240,
+            "amount_spent": 160,
+            "date": "Dec 23, 2019"
+        },
+        {
+            "id": 8,
+            "name":"Chai Chang Lung",
+            "tier_title":"Gold",
+            "points_balance": 100,
+            "amount_spent": 680,
+            "date": "Dec 25, 2019"
+        },{
+            "id": 9,
+            "name":"Webrand Clothing",
+            "tier_title":"Bronze",
+            "points_balance": 500,
+            "amount_spent": 130,
+            "date": "Jan 08, 2020"
+        },
+        {
+            "id": 10,
+            "name":"Ryushia Sohn",
+            "tier_title":"Bronze",
+            "points_balance": 700,
+            "amount_spent": 60,
+            "date": "Jan 03, 2020"
+        }
+    ]
 }
 
