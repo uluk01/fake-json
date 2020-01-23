@@ -5,69 +5,131 @@
     "users": [
         {
             "id": 1,
-            "name": "Webrand Clothing",
-            "code": "DFPSLKSBVGH",
+            "user": {
+               "user_name": "Webrand Clothing",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "DFPSLKSBVGH",
+              "url": "#",
+              "title": "#10056"
+            },
             "status": "used",
             "date": "Jan 08, 2020"
         },
         {
             "id": 2,
-            "name": "Ana Calhoun",
-            "code": "DFPSLKSBVGH",
+             "user": {
+               "user_name": "Ana Calhoun",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "DFPSLKSBVGH",
+              "url": "#",
+              "title": "#10678"
+            },
             "status": "used",
             "date": "Jan 08, 2020"
         },
         {
-            "id": 3,
-            "name": "Max Max",
-            "code": "DFPSLKSBVGH",
+           "id": 3,
+           "user": {
+               "user_name": "Max Max",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "DFPSLKSBVGH",
+              "url": "#",
+              "title": "#10223"
+            },
             "status": "used",
             "date": "Jan 08, 2020"
         },
         {
             "id": 4,
-            "name":"Yang Fang",
-            "code": "DFWERTYHGVCH",
+            "user": {
+               "user_name": "Yang Fang",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "DFWERTYHGVCH"
+            },
             "status": "active",
             "date": "Jan 03, 2020"
         },
         {
             "id": 5,
-            "name":"Sylvie Bréat",
-            "code": "DSDFTGYHJHBVH",
+            "user": {
+               "user_name": "Sylvie Bréat",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "SDFTGYHJHBVH"
+            },
             "status": "active",
             "date": "Dec 23, 2019"
         },
         {
             "id": 6,
-            "name":"Attila Vermes",
-           "code": "DFPSLKSBVGH",
+            "user": {
+               "user_name": "Attila Vermes",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "DFPSLKSBVGH",
+              "url": "#",
+              "title": "#10044"
+            },
             "status": "used",
             "date": "Dec 23, 2019"
         },{
             "id": 7,
-            "name":"Marine Brocvielle",
-            "code": "DFPSLKSBVGH",
+            "user": {
+               "user_name": "Marine Brocvielle",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "SFPSLKSBVGH"
+            },
             "status": "refunded",
             "date": "Dec 23, 2019"
         },
         {
             "id": 8,
-            "name":"Chai Chang Lung",
-            "code": "DFDFGHHHHBV",
+            "user": {
+               "user_name": "Chai Chang Lung",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "DFDFGHHHHBV",
+              "url": "#",
+              "title": "#30056"
+            },
             "status": "used",
             "date": "Dec 25, 2019"
         },{
             "id": 9,
-            "name":"Webrand Clothing",
-            "code": "DFPSLKSBVGH",
+            "user": {
+               "user_name": "Marine Brocvielle",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "SFPSLKSBVGH"
+            },
             "status": "refunded",
             "date": "Jan 08, 2020"
         },
         {
             "id": 10,
-            "name":"Ryushia Sohn",
-            "code": "DFPSLKSBVGH",
+            "user": {
+               "user_name": "Webrand Clothing",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "DFPSLKSBVGH",
+              "url": "#",
+              "title": "#10056"
+            },
             "status": "used",
             "date": "Jan 03, 2020"
         }
@@ -77,75 +139,137 @@
     "rule_id": 1,
     "page": 2,
     "users": [
-          {
-              "id": 11,
-              "name": "Webrand Clothing2",
+        {
+            "id": 11,
+            "user": {
+               "user_name": "Clothing Webrand",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "FFFFFFBVGH",
+              "url": "#",
+              "title": "#10056"
+            },
+            "status": "used",
+            "date": "Jan 08, 2020"
+        },
+        {
+            "id": 12,
+             "user": {
+               "user_name": "Calhoun Ana",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "DFPRRRRRRR",
+              "url": "#",
+              "title": "#10678"
+            },
+            "status": "used",
+            "date": "Jan 08, 2020"
+        },
+        {
+           "id": 13,
+           "user": {
+               "user_name": "Max Max3",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "PLKJHBBVGH",
+              "url": "#",
+              "title": "#10223"
+            },
+            "status": "used",
+            "date": "Jan 08, 2020"
+        },
+        {
+            "id": 14,
+            "user": {
+               "user_name": "Yang Fang2",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "WWWWWWWWHGVCH"
+            },
+            "status": "active",
+            "date": "Jan 03, 2020"
+        },
+        {
+            "id": 15,
+            "user": {
+               "user_name": "Bréat Sylvie",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "SDFTGYHJHBVH"
+            },
+            "status": "active",
+            "date": "Dec 23, 2019"
+        },
+        {
+            "id": 16,
+            "user": {
+               "user_name": "Vermes Attila",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "AASSHHHHBVGH",
+              "url": "#",
+              "title": "#10044"
+            },
+            "status": "used",
+            "date": "Dec 23, 2019"
+        },{
+            "id": 17,
+            "user": {
+               "user_name": "Marine Brocvielle2",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "QPLLLLLIBVGH"
+            },
+            "status": "refunded",
+            "date": "Dec 23, 2019"
+        },
+        {
+            "id": 18,
+            "user": {
+               "user_name": "Chang Lung Chai",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "IMNBVBNHHBV",
+              "url": "#",
+              "title": "#30056"
+            },
+            "status": "used",
+            "date": "Dec 25, 2019"
+        },{
+            "id": 19,
+            "user": {
+               "user_name": "Brocvielle Marine",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "SFPSLKSBVGH"
+            },
+            "status": "refunded",
+            "date": "Jan 08, 2020"
+        },
+        {
+            "id": 20,
+            "user": {
+               "user_name": "Webrand 2",
+               "user_url": "#"
+            },
+            "discount": {
               "code": "DFPSLKSBVGH",
-              "status": "used",
-              "date": "Jan 08, 2020"
-          },
-          {
-              "id": 12,
-              "name": "Ana Calhoun2",
-              "code": "DFPSLKSBVGH",
-              "status": "used",
-              "date": "Jan 08, 2020"
-          },
-          {
-              "id": 13,
-              "name": "Max Max2",
-              "code": "DFPSLKSBVGH",
-              "status": "used",
-              "date": "Jan 08, 2020"
-          },
-         {
-              "id": 14,
-              "name":"Yang Fang2",
-              "code": "DFWERTYHGVCH",
-              "status": "active",
-              "date": "Jan 03, 2020"
-          },
-          {
-              "id": 15,
-              "name":"Sylvie Bréat2",
-              "code": "DSDFTGYHJHBVH",
-              "status": "active",
-              "date": "Dec 23, 2019"
-          },
-          {
-              "id": 16,
-              "name":"Attila Vermes2",
-             "code": "DFPSLKSBVGH",
-              "status": "used",
-              "date": "Dec 23, 2019"
-          },{
-              "id": 17,
-              "name":"Marine Brocvielle2",
-              "code": "DFPSLKSBVGH",
-              "status": "refunded",
-              "date": "Dec 23, 2019"
-          },
-          {
-              "id": 18,
-              "name":"Chai Chang Lung2",
-              "code": "DFDFGHHHHBV",
-              "status": "used",
-              "date": "Dec 25, 2019"
-          },{
-              "id": 19,
-              "name":"Webrand Clothing2",
-              "code": "DFPSLKSBVGH",
-              "status": "refunded",
-              "date": "Jan 08, 2020"
-          },
-          {
-              "id": 20,
-              "name":"Ryushia Sohn2",
-              "code": "DFPSLKSBVGH",
-              "status": "used",
-              "date": "Jan 03, 2020"
-          }
-      ]
+              "url": "#",
+              "title": "#10056"
+            },
+            "status": "used",
+            "date": "Jan 03, 2020"
+        }
+    ]
   },
     "activity2":  {
       "page": 2,
