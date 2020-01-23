@@ -1,5 +1,8 @@
 {
-  "users1": [
+  "users1": {
+    "rule_id": 1,
+    "all_pages": 5,
+    "users": [
         {
             "id": 1,
             "name": "Webrand Clothing",
@@ -68,8 +71,12 @@
             "status": "used",
             "date": "Jan 03, 2020"
         }
-    ],
-    "users2": [
+    ]
+  },
+  "users2": {
+    "rule_id": 1,
+    "page": 2,
+    "users": [
           {
               "id": 11,
               "name": "Webrand Clothing2",
@@ -138,7 +145,8 @@
               "status": "used",
               "date": "Jan 03, 2020"
           }
-      ],
+      ]
+  },
     "activity2":  {
       "page": 2,
       "activities":[
