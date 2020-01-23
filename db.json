@@ -1,70 +1,144 @@
 {
-  "chart7": [
+  "users1": [
         {
             "id": 1,
-            "name": "Bronze",
-            "members": 233,
-            "data": [3333]
+            "name": "Webrand Clothing",
+            "code": "DFPSLKSBVGH",
+            "status": "used",
+            "date": "Jan 08, 2020"
         },
         {
             "id": 2,
-            "name": "Silver",
-            "members": 500,
-            "data": [1111]
+            "name": "Ana Calhoun",
+            "code": "DFPSLKSBVGH",
+            "status": "used",
+            "date": "Jan 08, 2020"
         },
         {
             "id": 3,
-            "name": "Gold",
-            "members": 50,
-            "data": [444]
+            "name": "Max Max",
+            "code": "DFPSLKSBVGH",
+            "status": "used",
+            "date": "Jan 08, 2020"
+        },
+        {
+            "id": 4,
+            "name":"Yang Fang",
+            "code": "DFWERTYHGVCH",
+            "status": "active",
+            "date": "Jan 03, 2020"
+        },
+        {
+            "id": 5,
+            "name":"Sylvie Bréat",
+            "code": "DSDFTGYHJHBVH",
+            "status": "active",
+            "date": "Dec 23, 2019"
+        },
+        {
+            "id": 6,
+            "name":"Attila Vermes",
+           "code": "DFPSLKSBVGH",
+            "status": "used",
+            "date": "Dec 23, 2019"
+        },{
+            "id": 7,
+            "name":"Marine Brocvielle",
+            "code": "DFPSLKSBVGH",
+            "status": "refunded",
+            "date": "Dec 23, 2019"
+        },
+        {
+            "id": 8,
+            "name":"Chai Chang Lung",
+            "code": "DFDFGHHHHBV",
+            "status": "used",
+            "date": "Dec 25, 2019"
+        },{
+            "id": 9,
+            "name":"Webrand Clothing",
+            "code": "DFPSLKSBVGH",
+            "status": "refunded",
+            "date": "Jan 08, 2020"
+        },
+        {
+            "id": 10,
+            "name":"Ryushia Sohn",
+            "code": "DFPSLKSBVGH",
+            "status": "used",
+            "date": "Jan 03, 2020"
         }
     ],
-    "chart30": [
+    "users2": [
           {
-              "id": 1,
-              "name": "Bronze",
-              "members": 555,
-              "data": [4444]
+              "id": 11,
+              "name": "Webrand Clothing2",
+              "code": "DFPSLKSBVGH",
+              "status": "used",
+              "date": "Jan 08, 2020"
           },
           {
-              "id": 2,
-              "name": "Silver",
-              "members": 60,
-              "data": [3566]
+              "id": 12,
+              "name": "Ana Calhoun2",
+              "code": "DFPSLKSBVGH",
+              "status": "used",
+              "date": "Jan 08, 2020"
           },
           {
-              "id": 3,
-              "name": "Gold",
-              "members": 20,
-              "data": [1234]
+              "id": 13,
+              "name": "Max Max2",
+              "code": "DFPSLKSBVGH",
+              "status": "used",
+              "date": "Jan 08, 2020"
+          },
+         {
+              "id": 14,
+              "name":"Yang Fang2",
+              "code": "DFWERTYHGVCH",
+              "status": "active",
+              "date": "Jan 03, 2020"
+          },
+          {
+              "id": 15,
+              "name":"Sylvie Bréat2",
+              "code": "DSDFTGYHJHBVH",
+              "status": "active",
+              "date": "Dec 23, 2019"
+          },
+          {
+              "id": 16,
+              "name":"Attila Vermes2",
+             "code": "DFPSLKSBVGH",
+              "status": "used",
+              "date": "Dec 23, 2019"
+          },{
+              "id": 17,
+              "name":"Marine Brocvielle2",
+              "code": "DFPSLKSBVGH",
+              "status": "refunded",
+              "date": "Dec 23, 2019"
+          },
+          {
+              "id": 18,
+              "name":"Chai Chang Lung2",
+              "code": "DFDFGHHHHBV",
+              "status": "used",
+              "date": "Dec 25, 2019"
+          },{
+              "id": 19,
+              "name":"Webrand Clothing2",
+              "code": "DFPSLKSBVGH",
+              "status": "refunded",
+              "date": "Jan 08, 2020"
+          },
+          {
+              "id": 20,
+              "name":"Ryushia Sohn2",
+              "code": "DFPSLKSBVGH",
+              "status": "used",
+              "date": "Jan 03, 2020"
           }
       ],
-    "chart90": [
-          {
-              "id": 1,
-              "name": "Bronze",
-              "members": 600,
-              "data": [3678]
-          },
-          {
-              "id": 2,
-              "name": "Silver",
-              "members": 100,
-              "data": [1222]
-          },
-          {
-              "id": 3,
-              "name": "Gold",
-              "members": 240,
-              "data": [222]
-          }
-      ],
-    "activity1":  {
-      "page": 1,
-      "activities":[
-            
-        ]   
-    },
     "activity2":  {
       "page": 2,
       "activities":[
