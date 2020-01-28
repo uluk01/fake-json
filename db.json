@@ -1,7 +1,7 @@
 {
   "users1": {
     "rule_id": 1,
-    "all_pages": 30,
+    "pages_count": 30,
     "users": [
         {
             "id": 1,
@@ -137,7 +137,7 @@
   },
   "users3": {
     "rule_id": 1,
-    "all_pages": 13,
+    "pages_count": 13,
     "users": [
         {
             "id": 10,
