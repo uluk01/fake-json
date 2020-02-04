@@ -293,9 +293,9 @@
         }
     ]
   },
-    "activity2":  {
+    "members2":  {
       "page": 2,
-      "activities":[
+      "members":[
             {
                 "id": 11,
                 "name":"Webrand Clothing2",
