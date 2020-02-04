@@ -301,76 +301,43 @@
                 "name":"Webrand Clothing2",
                 "tier_title":"Gold",
                 "points_balance": 640,
+                "points_spent": 40,
                 "amount_spent": 111,
-                "date": "Jan 08, 2020"
+                "referrals": "10"
             },
             {
                 "id": 12,
                 "name":"Ana Calhoun2",
                 "tier_title":"Gold",
                 "points_balance": 100,
+                "points_spent": 400,
                 "amount_spent": 680,
-                "date": "Jan 03, 2020"
+                "referrals": "0"
             },{
                 "id": 13,
                 "name":"Max Max2",
                 "tier_title":"Bronze",
                 "points_balance": 500,
+                "points_spent": 60,
                 "amount_spent": 130,
-                "date": "Jan 08, 2020"
+                "referrals": "13"
             },
             {
                 "id": 14,
                 "name":"Yang Fang2",
                 "tier_title":"Silver",
                 "points_balance": 1200,
+                "points_spent": 200,
                 "amount_spent": 80,
-                "date": "Jan 03, 2020"
+                "referrals": "1"
             },{
                 "id": 15,
                 "name":"Sylvie Bréat2",
                 "tier_title":"Bronze",
                 "points_balance": 500,
+                "points_spent": 220,
                 "amount_spent": 130,
-                "date": "Dec 23, 2019"
-            },
-            {
-                "id": 16,
-                "name":"Attila Vermes2",
-                "tier_title":"Silver",
-                "points_balance": 110,
-                "amount_spent": 180,
-                "date": "Dec 23, 2019"
-            },{
-                "id": 17,
-                "name":"Marine Brocvielle2",
-                "tier_title":"Bronze",
-                "points_balance": 240,
-                "amount_spent": 160,
-                "date": "Dec 23, 2019"
-            },
-            {
-                "id": 18,
-                "name":"Chai Chang Lung2",
-                "tier_title":"Gold",
-                "points_balance": 100,
-                "amount_spent": 680,
-                "date": "Dec 25, 2019"
-            },{
-                "id": 19,
-                "name":"Webrand Clothing2",
-                "tier_title":"Bronze",
-                "points_balance": 500,
-                "amount_spent": 130,
-                "date": "Jan 08, 2020"
-            },
-            {
-                "id": 20,
-                "name":"Ryushia Sohn2",
-                "tier_title":"Bronze",
-                "points_balance": 700,
-                "amount_spent": 60,
-                "date": "Jan 03, 2020"
+                "referrals": "17"
             }
         ]   
     }
