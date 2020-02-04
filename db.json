@@ -155,6 +155,26 @@
         }
     ]
   },
+   "users3": {
+    "rule_id": 1,
+    "pages_count": 1,
+    "users": [
+        {
+            "id": 10,
+            "user": {
+               "user_name": "Webrand Clothing",
+               "user_url": "#"
+            },
+            "discount": {
+              "code": "DFPSLKSBVGH",
+              "url": "#",
+              "title": "#10056"
+            },
+            "status": "used",
+            "date": "Jan 03, 2020"
+        }
+    ]
+  },
   "users2": {
     "rule_id": 1,
     "page": 2,
