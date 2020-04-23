@@ -202,6 +202,48 @@
       },
       "phone": "024-648-3804"
     }
+  ],
+  "status": [
+    {
+      "userId": 1,
+      "status": "family"
+    },
+    {
+      "userId": 2,
+      "status": "colleague"
+    },
+    {
+      "userId": 3,
+      "status": "colleague"
+    },
+    {
+      "status": 4,
+      "status": "friend"
+    },
+    {
+      "userId": 5,
+      "status": "colleague"
+    },
+    {
+      "userId": 6,
+      "status": "family"
+    },
+    {
+      "userId": 7,
+      "status": "family"
+    },
+    {
+      "userId": 8,
+      "status": "friend"
+    },
+    {
+      "userId": 9,
+      "status": "colleague"
+    },
+    {
+      "userId": 10,
+      "status": "friend"
+    }
   ]
 }
 
